@@ -1,4 +1,4 @@
-## In this program we define 2 particular functions that create a special a special matrix object which caches its inverse:
+## In this program we define 2 particular functions that create a special matrix object which caches its inverse:
 ## A. makecacheMatrix () 
 ## B. cacheSolve ()
 
@@ -64,3 +64,7 @@ cacheSolve <- function(x, ...) {
   #4. Return the inverse of the matrix
   inv_m
 }
+
+
+
+
